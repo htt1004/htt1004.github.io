@@ -4,3 +4,12 @@ h5 {
 h4 {
     font-size: 0.5em;
 }
+.wrap{
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+}
+.wrap img{
+    width: 60px;
+    height: 60px;
+}

@@ -1,10 +1,15 @@
-h4 {font-size: 0.5pt;
+h4 {font-size: 1px;
 }
-.img {
-    width: 100%;
-    height: 100%;
+div{font-size: 1px;
+    
 }
+
 .wrap{
-    width: 100%;
-    height: 100%;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+.wrap img{
+    width: 50px;
+    height: 50px;
 }
