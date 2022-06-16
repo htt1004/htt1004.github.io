@@ -1,0 +1,12 @@
+.box{
+    background-image: url(19.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.bg-war{
+    background-color: #FFF3E4!important;
+}
+.bg-warg{
+    background-color: #7CBB94!important;
+}

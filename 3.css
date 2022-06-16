@@ -1,0 +1,20 @@
+.bg-warning{
+    background-color: #FFD999!important;
+}
+.bg-war{
+    background-color: #FFF3E4!important;
+}
+.img-thumbnail{
+    background-color: #ffffff!important;
+}
+.bg-wa {
+    background-color: #7CBB94!important;
+}
+.bg-w {
+    background-color: #ffffff!important;
+}
+.containe{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}

@@ -1,0 +1,28 @@
+.bg-warning{
+    background-color: #7CBB94!important;
+}
+.bg-wa{
+    background-color: #FFF3E4!important;
+}
+.bg-w{
+    background-color: #ffff!important;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+.btn-primar{
+    background-color: #FFD999!important;
+}
+.btn-prima{
+    background-color: #ff4646!important;
+}
+.goo{
+    border-radius: 30px 30px 30px 30px;
+
+}
+.container-fluid{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}

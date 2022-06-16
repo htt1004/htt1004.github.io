@@ -1,0 +1,26 @@
+.bg-warning{
+    background-color: #FFD999!important;
+}
+.bg-warn{
+    background-color: #7CBB94!important;
+}
+.bg-war{
+    background-color: #FFF3E4!important;
+}
+.img-thumbnail{
+    background-color: #FFD999!important;
+}
+.ban{
+    background-color:white!important;
+}
+.bann{
+    background-color: #7CBB94!important;
+}
+.text{
+    color: #7CBB94;
+}
+.containe{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
